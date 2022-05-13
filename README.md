@@ -1,0 +1,2 @@
+# dkrdj
+Django docker project
